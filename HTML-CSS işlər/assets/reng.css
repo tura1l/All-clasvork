@@ -1,0 +1,25 @@
+.left {
+background-color: aqua;
+display: inline-block;
+}
+.right{
+    background-color: red;
+    display: inline-block;
+}
+.item{
+    width:45%;
+    height: 450px;
+    
+}
+.insert{
+    background-color: pink;
+    display: inline-block;
+    width:45%;
+    height: 250px;
+}
+.vehi{
+    background-color: grey;
+    display: inline-block;
+    width:25%;
+    height: 250px;
+}
